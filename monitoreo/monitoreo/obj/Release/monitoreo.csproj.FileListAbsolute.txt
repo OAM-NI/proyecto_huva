@@ -1,0 +1,11 @@
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Release\monitoreo.exe.config
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Release\monitoreo.exe
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Release\monitoreo.pdb
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.csproj.AssemblyReference.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.Form1.resources
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.Properties.Resources.resources
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.csproj.GenerateResource.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.csproj.CoreCompileInputs.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.exe
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Release\monitoreo.pdb

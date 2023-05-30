@@ -1,0 +1,33 @@
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\bin\Debug\monitoreo.exe.config
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\bin\Debug\monitoreo.exe
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\bin\Debug\monitoreo.pdb
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.Form1.resources
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.exe
+C:\Users\david\OneDrive\Escritorio\fatima\monitoreo\monitoreo\obj\Debug\monitoreo.pdb
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\bin\Debug\monitoreo.exe.config
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\bin\Debug\monitoreo.exe
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\bin\Debug\monitoreo.pdb
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.Form1.resources
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.Properties.Resources.resources
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.exe
+C:\Users\david\OneDrive\Escritorio\monitoreo\monitoreo\obj\Debug\monitoreo.pdb
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Debug\monitoreo.exe.config
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Debug\monitoreo.exe
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\bin\Debug\monitoreo.pdb
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.AssemblyReference.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.Form1.resources
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.Properties.Resources.resources
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.GenerateResource.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.csproj.CoreCompileInputs.cache
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.exe
+C:\Users\Owenm\OneDrive\Escritorio\proyecto inovatec\proyecto inovatec\monitoreo\monitoreo\obj\Debug\monitoreo.pdb
